@@ -1,0 +1,22 @@
+Tujuan : membantu manajemen keuangan baik secara individu maupun rumah tangga
+
+- metode manajemen by amplop untu rumah tangga
+- individu masih riset
+
+skenario yang keluarga
+1. IRT mengatur uang dengan pembagian tiap-tiap amplop (listrik, pendidikan, dsb)
+2. Perencanaan masa depan seperti target untuk membali sesuatu (laptop, hp dll). Ada progress bar yang diupdate setiap uang disimpan. 
+3. Setiap melakukan pengeluaran, maka user mengupdate pengeluaran tsb.
+4. Kalau ada sisa akan diberi pilihan untuk masuk ke suatu amplop baru ataupun dialihkan ke amplop yg sudah ada
+5. AI untuk perencanaan masa depan berdasarkan gaji dan pengeluaran bulanan
+6. Untuk individual, bisa melakukan manajemen keuangan
+7. Perencanaan masa depan dan quotes
+8. Notif kelebihan pengeluaran dari rencana keuangan
+9. Notif apresiasi untuk penghematan
+10. Setting alarm pengingat rencana keuangan
+
+Future
+1. Punya alat IoT seperti brankas yang terintegrasi dengan aplikasi dan dapat menjadi seperti atm pribadi (bisa input output uang
+2. Sensor pendeteksi uang
+3. Terintegrasi dengan bank
+4. 
